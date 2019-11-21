@@ -259,9 +259,11 @@ footer {
     object-position: center;
     background: #ededed;
     border-radius: 8px;
-    width: 25%;
+    width: min-content;
     padding-top: 10px;
     padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
     mask-position: center;
     position: relative;
     object-position: center;
